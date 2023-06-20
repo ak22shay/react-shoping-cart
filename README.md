@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This App is a clone of a shopping cart functionality. You can add products in shopping cart and purchase the items. This project demonstrats functionality of state management and reusable components.
+
+<img width="1440" alt="Screenshot 2023-06-19 at 11 05 16 PM" src="https://github.com/ak22shay/react-shopping-cart/assets/14252445/80405466-8293-4bed-aa80-6f9c29dc9653">
+
+<img width="1440" alt="Screenshot 2023-06-19 at 11 05 29 PM" src="https://github.com/ak22shay/react-shopping-cart/assets/14252445/36a89e21-4d49-408b-b260-33a0c7db8ebd">
+
+<img width="1440" alt="Screenshot 2023-06-19 at 11 05 42 PM" src="https://github.com/ak22shay/react-shopping-cart/assets/14252445/dea7c986-da79-4dbc-9a71-062654a59931">
+
+
 
 ## Available Scripts
 
